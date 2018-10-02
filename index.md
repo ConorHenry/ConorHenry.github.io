@@ -6,7 +6,7 @@ layout: default
 ## About Me
 
 
-Hi! I'm Conor Henry. I study Computer Science and Engineering at the University of Iowa. I'm currently seeking internships and/or Co-ops for 2019, so I made this site to host my resume and to showcase some of my projects and classwork. Thanks for visiting!
+Hi! I'm Conor Henry. I study Computer Science and Engineering at the University of Iowa. I'm currently seeking internships and/or Co-ops for 2019, so I made this site to host my resume and to showcase some of my projects and classwork. Some pages might be blank as I am still in the process of building this site. Thanks for visiting!
 
 ## Work
 
